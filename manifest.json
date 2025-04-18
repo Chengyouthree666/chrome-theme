@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "name": "✨theme✨",
+    "version": "1.0.0",
+    "description": "developer @chengyouthree",
+    "theme": {
+      "colors": {
+        "bookmark_text": [246, 241, 103],
+        "button_background": [255, 255, 255],
+        "omnibox_background": [108, 74, 137],
+        "omnibox_text": [138, 252, 163],
+        "toolbar": [108, 74, 137],
+        "toolbar_button_icon": [138, 252, 163],
+        "toolbar_text": [255, 255, 255],
+        "background_tab": [0, 0, 0],
+        "background_tab_inactive": [0, 0, 0],
+        "background_tab_incognito": [0, 0, 255],
+        "background_tab_incognito_inactive": [255, 255, 0],
+        "frame": [255, 255, 255],
+        "frame_inactive": [246, 248, 250],
+        "frame_incognito": [246, 248, 250],
+        "frame_incognito_inactive": [246, 248, 250],
+        "ntp_background": [108, 74, 137],
+        "ntp_header": [255, 255, 255],
+        "ntp_link": [138, 252, 163],
+        "ntp_text": [138, 252, 163],
+        "ntp_section": [252, 85, 49],
+        "tab_text": [255, 255, 255],
+        "tab_background_text": [255, 255, 255],
+        "tab_background_text_inactive": [255, 255, 255],
+        "tab_background_text_incognito": [255, 255, 255],
+        "tab_background_text_incognito_inactive": [255, 255, 255]
+      },
+      "tints": {
+        "backgroud_tab": [0.5, 0.5, 0.5],
+        "buttons": [0.33, 0.5, 0.47]
+      }
+    }
+  }
+  
