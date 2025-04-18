@@ -4,6 +4,9 @@
     "version": "1.0.0",
     "description": "developer @chengyouthree",
     "theme": {
+            "images": {
+      "theme_ntp_background": "theme_ntp_background.png"
+    },
       "colors": {
         "bookmark_text": [246, 241, 103],
         "button_background": [255, 255, 255],
