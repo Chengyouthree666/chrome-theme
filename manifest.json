@@ -4,8 +4,12 @@
     "version": "1.0.0",
     "description": "developer @chengyouthree",
     "theme": {
-            "images": {
-      "theme_ntp_background": "theme_ntp_background.png"
+    "images": {
+      "theme_ntp_background": "thanos.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
     },
       "colors": {
         "bookmark_text": [246, 241, 103],
